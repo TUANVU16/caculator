@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TUANVU16/caculator/static/css/main.c6be5238.css",
+    "main.js": "/TUANVU16/caculator/static/js/main.f1947351.js",
+    "index.html": "/TUANVU16/caculator/index.html",
+    "main.c6be5238.css.map": "/TUANVU16/caculator/static/css/main.c6be5238.css.map",
+    "main.f1947351.js.map": "/TUANVU16/caculator/static/js/main.f1947351.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6be5238.css",
+    "static/js/main.f1947351.js"
+  ]
+}
